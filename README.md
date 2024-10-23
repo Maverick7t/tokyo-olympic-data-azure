@@ -19,10 +19,10 @@ Gold Medal
 ![App Screenshot](https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Goldmedal.jpeg)
 
 Silver Medals
-https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Silvermedal.jpeg
+![App Screenshot] (https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Silvermedal.jpeg)
 
 Bronze Medals
-https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Bronzemedal.jpeg
+![App Screenshot] (https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Bronzemedal.jpeg)
 
 Total Teams
-https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Teams.csv
+![App Screenshot] (https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Teams.csv)
