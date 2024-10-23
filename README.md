@@ -13,5 +13,6 @@ The Tokyo 2021 Olympics Data Engineering Project focuses on exploring and analyz
 
 ## Result
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/method.jpeg)
 
+https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/method.jpeg
