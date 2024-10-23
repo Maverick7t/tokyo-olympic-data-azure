@@ -25,4 +25,4 @@ Bronze Medals
 ![App Screenshot2](https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Bronzemedal.jpeg)
 
 Total Teams
-![App Screenshot3](https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Teams.csv)
+![App Screenshot3](https://github.com/Maverick7t/tokyo-olympic-data-azure/blob/main/Data/Totalathletes.jpeg)
